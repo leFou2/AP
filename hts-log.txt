@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 15 Sep 2022 02:11:27 at https://www.facebook.com
+(winhttrack https://www.facebook.com -O "/home/whitehack/websites/PJ Facebook" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:11:29	Warning: 	Found for https://www.facebook.com/
+02:11:29	Warning: 	File has moved from https://www.facebook.com/ to https://web.facebook.com/?_rdc=1&_rdr
+02:11:29	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
